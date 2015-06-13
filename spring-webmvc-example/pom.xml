@@ -19,6 +19,7 @@
 	</properties>
 
 	<dependencies>
+		<!-- Spring Web MVC framework dependency -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
