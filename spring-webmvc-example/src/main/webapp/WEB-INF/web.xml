@@ -17,6 +17,7 @@
          	<param-name>contextConfigLocation</param-name>
          	<param-value>classpath:servlet-context.xml</param-value>
          </init-param>
+         <!-- servlet 초기화 우선순위 -->
         <load-on-startup>1</load-on-startup>
     </servlet>
     <servlet-mapping>

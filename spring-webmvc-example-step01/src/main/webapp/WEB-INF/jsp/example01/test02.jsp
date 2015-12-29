@@ -3,10 +3,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Spring Web MVC Hello World Example</title>
+<title>EXAMPLE 01 - TEST 02</title>
 </head>
 <body>
-	<h1>Spring Web MVC Hello World Example</h1>
-	<h2>${message}</h2>
+	<h1>EXAMPLE 01 - TEST 02</h1>
 </body>
 </html>
